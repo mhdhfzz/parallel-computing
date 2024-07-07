@@ -17,7 +17,7 @@ start openssh (paste pada terminal atau Powershell)
 ## 2. Cara menjalankan program
 - buka source code melalui [VScode](https://code.visualstudio.com/download)
 - atur konfigurasi pada file host.json
-1. buka command promt
+1. buka command prompt
 2. mendapatkan alamat IP, ketik perintah pada command prompt
 ```bash
   ipconfig
