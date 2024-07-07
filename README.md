@@ -2,7 +2,7 @@
 
 ### 1. Persyaratan
 - download [sourcode](https://github.com/mhdhfzz/parallel-computing/archive/refs/heads/main.zip) 
-- openssh server (cara install [link1](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui)|[link2](https://winaero.com/enable-openssh-server-windows-10/))
+- openssh server (install [link1](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui)|[link2](https://winaero.com/enable-openssh-server-windows-10/))
 
 start openssh (paste pada terminal atau Powershell)
 ```bash
