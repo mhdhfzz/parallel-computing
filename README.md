@@ -26,3 +26,7 @@ start openssh (paste pada terminal atau Powershell)
 ```bash
   python phi.py local
 ```
+
+## Hasil
+![Runing local dan cluster](run.png)
+Gambar sebelah kiri run local machine, dan gambar sebelah kanan run cluster machine
