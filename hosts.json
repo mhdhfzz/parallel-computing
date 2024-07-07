@@ -1,0 +1,16 @@
+{
+  "hosts": [
+    {
+      "host": "user1",
+      "ip": "192.168.100.12",
+      "username": "user",
+      "password": "password"
+    },
+    {
+      "host": "user2",
+      "ip": "192.168.100.203",
+      "username": "user",
+      "password": "password"
+    }
+  ]
+}
