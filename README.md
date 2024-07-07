@@ -18,7 +18,7 @@ start openssh (paste pada terminal atau Powershell)
 - buka source code melalui [VScode](https://code.visualstudio.com/download)
 - buka terminal
 - paste perintah berikut pada terminal
-1.  cluster machine, untuk running pada cluster machine (lebih dari 1 laptop/komputer yang terhubung ke jaringan yang sama)
+1.  cluster machine, untuk running pada cluster machine (dua atau lebih laptop/komputer yang terhubung pada jaringan yang sama)
 ```bash
   python phi.py cluster
 ```
